@@ -19,3 +19,4 @@ Snap.*
 # pomless
 .polyglot.*
 /.project
+.mvn/.develocity/develocity-workspace-id
